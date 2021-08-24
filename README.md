@@ -15,7 +15,12 @@
 5. EVERLYNE WANJIKU MAINA - BCSC01/0072/2018
 6. TERRENCE MACHOGU K - BCSC01/0054/2018
 7. GITAU GEORGE - BCSC01/0168/2018
-PROJECT ROLES AND RESPONSIBILITIES.
+
+
+
+                                                         PROJECT ROLES AND RESPONSIBILITIES.
+                                                         
+                                                         
 PROJECT MANAGER – VICTOR OUMA (Responsible for creating and managing the project.)
 TECHNICAL LEAD – EVERLYNE AND QUEENSLAY (involved in the project proposal and translating the
 problem to technical solution.)
